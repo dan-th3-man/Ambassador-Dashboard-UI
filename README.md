@@ -2,7 +2,7 @@
 
 A mockup UI for a dashboard designed for members of a community specifically community ambassadors to see their rewards and progress against other ambassadors, as well as view and submit missions for rewards.
 
-![Ambassador Dashboard Preview](/assets/dashboard.png)
+![Ambassador Dashboard Preview](/assets/dashboard.PNG)
 
 ## ✨ Key Features
 
